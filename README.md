@@ -1,6 +1,6 @@
 # React + Vite
 
-desktop not apllication powerd by AI 
+desktop note apllication powerd by AI 
 
 Currently, two official plugins are available:
 
